@@ -1,5 +1,6 @@
 ### Profile
 
+[![Anurag's GitHub stats](https:https://github-readme-stats.vercel.app/api?username=ryoga-kw-github&count_private=true&hide=issues,prs)](https://github.com/ryoga-kw-github/github-readme-stats)
 
 <!--
 **ryoga-kw-github/ryoga-kw-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
