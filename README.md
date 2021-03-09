@@ -1,6 +1,7 @@
 ### Profile
 
 ![ryoga-kw's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryoga-kw-github&count_private=true&hide=issues,prs)
+![ryoga-kw's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ryoga-kw-github&layout=compact)
 
 <!--
 **ryoga-kw-github/ryoga-kw-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
